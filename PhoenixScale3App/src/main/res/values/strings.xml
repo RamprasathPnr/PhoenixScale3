@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phoenix Scale 3</string>
+
+    <string name="Logo">Logo</string>
+
+    <string name="btnScanForDevices">Scan For Devices</string>
+
+    <string name="title_activity_device_scan">Phoenix Devices</string>
+    <string name="title_activity_scale_control">Phoenix Scale 3</string>
+
+</resources>
